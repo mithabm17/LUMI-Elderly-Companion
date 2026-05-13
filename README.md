@@ -212,7 +212,7 @@ LUMI_Prototype.pdf
 # Demo
 
 Demo video link:
-
+https://youtu.be/RP4gSlLVhMk?si=x0A4ASaPnNVqwQRw
 
 ---
 
